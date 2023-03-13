@@ -1,0 +1,15 @@
+/*TIRAR ESTILIZAÇÕES QUE O NAVEGADOR COLOCA POR PADRÃO*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;/*TRABALHA MELHOR COM AS BOX*/
+}
+
+ul{
+    list-style: none; /*TIRAR O ESTILO DA LINHA (BOLINHAS AO LADO DO ÍCONE)*/
+}
+
+a{
+    text-decoration: none; /*NÃO ESTILIZAR OS LINKS*/
+}
+
